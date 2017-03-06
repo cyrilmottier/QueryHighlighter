@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="appName">QueryHighlight</string>
+
+    <string name="action_searchCheeses">Search cheeses</string>
+    <string name="searchCheesesHint">Search cheeses…</string>
+
+</resources>
